@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<p>This is a temporary page for CSCI E-15 project 1.</p>
+<p>This is a temporary page for CSCI E-15 project 1!!!</p>
 </body>
 
 </html>
