@@ -1,0 +1,60 @@
+/* main headings */
+h1
+{
+	font-family:verdana;
+	font-size:20px;
+	color:black;
+}
+
+
+/* secondary headings */
+h2
+{
+	font-family:verdana;
+	font-size:16px;
+	color:black;
+}
+
+/* lists */
+li
+{
+	font-family:verdana;
+	font-size:12px;
+	color:black;
+	display:inline;
+}
+
+/* main content */
+p
+{
+	font-family:verdana;
+	font-size:12px;
+	color:black;
+}
+
+/* hypertext links */
+a:link
+{
+	text-decoration:none;
+}
+
+a:visited
+{
+	text-decoration:none;
+}
+
+a:hover
+{
+	font-weight: bold;
+}
+
+a:active
+{
+	text-decoration:underline;
+}
+
+/* images */
+img
+{
+	border:none;
+}
