@@ -1,46 +1,49 @@
+/* overall content */
+body
+{
+	font-family:verdana;
+	font-size:12px;
+	color:black;
+	margin:10px;
+	padding:10px;
+}
+
+#center
+{
+	width: 1100px;
+	text-align:left;
+	margin:0;
+	padding:0;
+}
+
 /* main headings */
 h1
 {
-	font-family:verdana;
 	font-size:20px;
-	color:black;
 }
 
 
 /* secondary headings */
 h2
 {
-	font-family:verdana;
 	font-size:16px;
-	color:black;
 }
 
-/* lists */
-li
+/* lists for navigation */
+li.nav
 {
-	font-family:verdana;
-	font-size:12px;
-	color:black;
 	display:inline;
-}
-
-/* main content */
-p
-{
-	font-family:verdana;
-	font-size:12px;
-	color:black;
 }
 
 /* hypertext links */
 a:link
 {
-	text-decoration:none;
+	text-decoration:underline;
 }
 
 a:visited
 {
-	text-decoration:none;
+	text-decoration:underline;
 }
 
 a:hover
